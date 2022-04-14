@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c221286-ca81-41c4-bc01-f95c79ec978b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Container_With_Most_Water/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Complete_Tree_Nodes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_K_Closest_Elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_Minimum_in_Rotated_Sorted_Array_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_Peak_Element/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_the_Student_that_Will_Replace_the_Chalk/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Frequency_of_the_Most_Frequent_Element/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game_of_Life/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H_Index_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Median_of_Two_Sorted_Arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Min_Coin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Size_Subarray_Sum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Negative_weight_cycle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Single_Element_in_a_Sorted_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spiral_Matrix_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valid_Triangle_Number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ways_to_Split_Array_Into_Three_Subarrays/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27mWZvEsotzqrgQBjZUFFXyJxlk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c221286-ca81-41c4-bc01-f95c79ec978b" name="Changes" comment="" />
+      <created>1649925801670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649925801670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
