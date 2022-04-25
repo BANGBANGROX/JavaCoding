@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51919d01-01f9-4923-94e4-ed3a1e09ac68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Avoid_Flood_in_The_City/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Binary_Search_Tree_Iterator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Closest_Palindrome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convert_BST_to_Greater_Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design_HashMap/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design_Underground_System/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encode_and_Decode_TinyURL/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_Latest_Group_of_Size_M/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_a_Peak_Element_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kth_Smallest_Element_in_a_BST/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Value_at_a_Given_Index_in_a_Bounded_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_sum_Rectangle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product_of_Primes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Range_Sum_of_Sorted_Subarray_Sums/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sell_Diminishing_Valued_Colored_Balls/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snapshot_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum_of_Mutated_Array_Closest_to_Target/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum_of_two_numbers_without_using_arithmetic_operators/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Time_Based_Key_Value_Store/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trim_a_Binary_Search_Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word_Wrap/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="28Fda88mnuPuGaSvhN8SuBbXjyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51919d01-01f9-4923-94e4-ed3a1e09ac68" name="Changes" comment="" />
+      <created>1650816328506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650816328506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
