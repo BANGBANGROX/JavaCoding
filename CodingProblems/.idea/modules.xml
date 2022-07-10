@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Binary_Heap_Operations/Binary_Heap_Operations.iml" filepath="$PROJECT_DIR$/Binary_Heap_Operations/Binary_Heap_Operations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tree_Iterator/Binary_Search_Tree_Iterator.iml" filepath="$PROJECT_DIR$/Binary_Search_Tree_Iterator/Binary_Search_Tree_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" filepath="$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brackets_in_Matrix_Chain_Multiplication/Brackets_in_Matrix_Chain_Multiplication.iml" filepath="$PROJECT_DIR$/Brackets_in_Matrix_Chain_Multiplication/Brackets_in_Matrix_Chain_Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Brain_Game/Brain_Game.iml" filepath="$PROJECT_DIR$/Brain_Game/Brain_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Building_Boxes/Building_Boxes.iml" filepath="$PROJECT_DIR$/Building_Boxes/Building_Boxes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bulls_and_Cows/Bulls_and_Cows.iml" filepath="$PROJECT_DIR$/Bulls_and_Cows/Bulls_and_Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/Burst_Balloons/Burst_Balloons.iml" filepath="$PROJECT_DIR$/Burst_Balloons/Burst_Balloons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" filepath="$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" />
@@ -102,11 +105,13 @@
       <module fileurl="file://$PROJECT_DIR$/Insert_into_a_Binary_Search_Tree/Insert_into_a_Binary_Search_Tree.iml" filepath="$PROJECT_DIR$/Insert_into_a_Binary_Search_Tree/Insert_into_a_Binary_Search_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integer_Break/Integer_Break.iml" filepath="$PROJECT_DIR$/Integer_Break/Integer_Break.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integer_to_Words/Integer_to_Words.iml" filepath="$PROJECT_DIR$/Integer_to_Words/Integer_to_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interleaving_String/Interleaving_String.iml" filepath="$PROJECT_DIR$/Interleaving_String/Interleaving_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Is_Graph_Bipartite/Is_Graph_Bipartite.iml" filepath="$PROJECT_DIR$/Is_Graph_Bipartite/Is_Graph_Bipartite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jump_Game/Jump_Game.iml" filepath="$PROJECT_DIR$/Jump_Game/Jump_Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jump_Game_II/Jump_Game_II.iml" filepath="$PROJECT_DIR$/Jump_Game_II/Jump_Game_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jump_Game_III/Jump_Game_III.iml" filepath="$PROJECT_DIR$/Jump_Game_III/Jump_Game_III.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jump_Game_IV/Jump_Game_IV.iml" filepath="$PROJECT_DIR$/Jump_Game_IV/Jump_Game_IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jump_Game_VI/Jump_Game_VI.iml" filepath="$PROJECT_DIR$/Jump_Game_VI/Jump_Game_VI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Keys_and_Rooms/Keys_and_Rooms.iml" filepath="$PROJECT_DIR$/Keys_and_Rooms/Keys_and_Rooms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Koko_Eating_Bananas/Koko_Eating_Bananas.iml" filepath="$PROJECT_DIR$/Koko_Eating_Bananas/Koko_Eating_Bananas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kth_Smallest_Element_in_a_BST/Kth_Smallest_Element_in_a_BST.iml" filepath="$PROJECT_DIR$/Kth_Smallest_Element_in_a_BST/Kth_Smallest_Element_in_a_BST.iml" />
@@ -190,6 +195,7 @@
       <module fileurl="file://$PROJECT_DIR$/Optimal_binary_search_tree/Optimal_binary_search_tree.iml" filepath="$PROJECT_DIR$/Optimal_binary_search_tree/Optimal_binary_search_tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Optimum_location_of_point_to_minimize_total_distance/Optimum_location_of_point_to_minimize_total_distance.iml" filepath="$PROJECT_DIR$/Optimum_location_of_point_to_minimize_total_distance/Optimum_location_of_point_to_minimize_total_distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pacific_Atlantic_Water_Flow/Pacific_Atlantic_Water_Flow.iml" filepath="$PROJECT_DIR$/Pacific_Atlantic_Water_Flow/Pacific_Atlantic_Water_Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paint_House_III/Paint_House_III.iml" filepath="$PROJECT_DIR$/Paint_House_III/Paint_House_III.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pairs_of_Non_Coinciding_Points/Pairs_of_Non_Coinciding_Points.iml" filepath="$PROJECT_DIR$/Pairs_of_Non_Coinciding_Points/Pairs_of_Non_Coinciding_Points.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.iml" filepath="$PROJECT_DIR$/Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrome_Pairs/Palindrome_Pairs.iml" filepath="$PROJECT_DIR$/Palindrome_Pairs/Palindrome_Pairs.iml" />
@@ -224,6 +230,7 @@
       <module fileurl="file://$PROJECT_DIR$/Search_in_Rotated_Sorted_Array_II/Search_in_Rotated_Sorted_Array_II.iml" filepath="$PROJECT_DIR$/Search_in_Rotated_Sorted_Array_II/Search_in_Rotated_Sorted_Array_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sell_Diminishing_Valued_Colored_Balls/Sell_Diminishing_Valued_Colored_Balls.iml" filepath="$PROJECT_DIR$/Sell_Diminishing_Valued_Colored_Balls/Sell_Diminishing_Valued_Colored_Balls.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sequential_Digits/Sequential_Digits.iml" filepath="$PROJECT_DIR$/Sequential_Digits/Sequential_Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping_Offers/Shopping_Offers.iml" filepath="$PROJECT_DIR$/Shopping_Offers/Shopping_Offers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shortest_Bridge/Shortest_Bridge.iml" filepath="$PROJECT_DIR$/Shortest_Bridge/Shortest_Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.iml" filepath="$PROJECT_DIR$/Shortest_Path_Visiting_All_Nodes/Shortest_Path_Visiting_All_Nodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shortest_Path_Visiting_All_Nodes_2/Shortest_Path_Visiting_All_Nodes_2.iml" filepath="$PROJECT_DIR$/Shortest_Path_Visiting_All_Nodes_2/Shortest_Path_Visiting_All_Nodes_2.iml" />
@@ -276,6 +283,7 @@
       <module fileurl="file://$PROJECT_DIR$/Valid_Triangle_Number/Valid_Triangle_Number.iml" filepath="$PROJECT_DIR$/Valid_Triangle_Number/Valid_Triangle_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Water_and_Jug_Problem/Water_and_Jug_Problem.iml" filepath="$PROJECT_DIR$/Water_and_Jug_Problem/Water_and_Jug_Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ways_to_Split_Array_Into_Three_Subarrays/Ways_to_Split_Array_Into_Three_Subarrays.iml" filepath="$PROJECT_DIR$/Ways_to_Split_Array_Into_Three_Subarrays/Ways_to_Split_Array_Into_Three_Subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Where_Will_the_Ball_Fall/Where_Will_the_Ball_Fall.iml" filepath="$PROJECT_DIR$/Where_Will_the_Ball_Fall/Where_Will_the_Ball_Fall.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wiggle_Subsequence/Wiggle_Subsequence.iml" filepath="$PROJECT_DIR$/Wiggle_Subsequence/Wiggle_Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wildcard_Matching/Wildcard_Matching.iml" filepath="$PROJECT_DIR$/Wildcard_Matching/Wildcard_Matching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Word_Break/Word_Break.iml" filepath="$PROJECT_DIR$/Word_Break/Word_Break.iml" />
