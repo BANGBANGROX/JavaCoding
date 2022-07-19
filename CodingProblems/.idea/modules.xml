@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Building_Boxes/Building_Boxes.iml" filepath="$PROJECT_DIR$/Building_Boxes/Building_Boxes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bulls_and_Cows/Bulls_and_Cows.iml" filepath="$PROJECT_DIR$/Bulls_and_Cows/Bulls_and_Cows.iml" />
       <module fileurl="file://$PROJECT_DIR$/Burst_Balloons/Burst_Balloons.iml" filepath="$PROJECT_DIR$/Burst_Balloons/Burst_Balloons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bus_Routes/Bus_Routes.iml" filepath="$PROJECT_DIR$/Bus_Routes/Bus_Routes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" filepath="$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitalize_the_Title/Capitalize_the_Title.iml" filepath="$PROJECT_DIR$/Capitalize_the_Title/Capitalize_the_Title.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car_Pooling/Car_Pooling.iml" filepath="$PROJECT_DIR$/Car_Pooling/Car_Pooling.iml" />
@@ -133,6 +134,7 @@
       <module fileurl="file://$PROJECT_DIR$/Longest_substring_to_form_a_Palindrome/Longest_substring_to_form_a_Palindrome.iml" filepath="$PROJECT_DIR$/Longest_substring_to_form_a_Palindrome/Longest_substring_to_form_a_Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrix_Block_Sum/Matrix_Block_Sum.iml" filepath="$PROJECT_DIR$/Matrix_Block_Sum/Matrix_Block_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max_Area_of_Island/Max_Area_of_Island.iml" filepath="$PROJECT_DIR$/Max_Area_of_Island/Max_Area_of_Island.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max_sum_in_the_configuration/Max_sum_in_the_configuration.iml" filepath="$PROJECT_DIR$/Max_sum_in_the_configuration/Max_sum_in_the_configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximal_Network_Rank/Maximal_Network_Rank.iml" filepath="$PROJECT_DIR$/Maximal_Network_Rank/Maximal_Network_Rank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximal_Square/Maximal_Square.iml" filepath="$PROJECT_DIR$/Maximal_Square/Maximal_Square.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximize_Distance_to_Closest_Person/Maximize_Distance_to_Closest_Person.iml" filepath="$PROJECT_DIR$/Maximize_Distance_to_Closest_Person/Maximize_Distance_to_Closest_Person.iml" />
