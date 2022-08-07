@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Bike_Racing/Bike_Racing.iml" filepath="$PROJECT_DIR$/Bike_Racing/Bike_Racing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Heap_Operations/Binary_Heap_Operations.iml" filepath="$PROJECT_DIR$/Binary_Heap_Operations/Binary_Heap_Operations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tree_Iterator/Binary_Search_Tree_Iterator.iml" filepath="$PROJECT_DIR$/Binary_Search_Tree_Iterator/Binary_Search_Tree_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tree_to_Greater_Sum_Tree/Binary_Search_Tree_to_Greater_Sum_Tree.iml" filepath="$PROJECT_DIR$/Binary_Search_Tree_to_Greater_Sum_Tree/Binary_Search_Tree_to_Greater_Sum_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_Level_Order_Traversal_II/Binary_Tree_Level_Order_Traversal_II.iml" filepath="$PROJECT_DIR$/Binary_Tree_Level_Order_Traversal_II/Binary_Tree_Level_Order_Traversal_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_to_CDLL/Binary_Tree_to_CDLL.iml" filepath="$PROJECT_DIR$/Binary_Tree_to_CDLL/Binary_Tree_to_CDLL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" filepath="$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/Count_Complete_Tree_Nodes/Count_Complete_Tree_Nodes.iml" filepath="$PROJECT_DIR$/Count_Complete_Tree_Nodes/Count_Complete_Tree_Nodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Palindrome_Sub_Strings_of_a_String/Count_Palindrome_Sub_Strings_of_a_String.iml" filepath="$PROJECT_DIR$/Count_Palindrome_Sub_Strings_of_a_String/Count_Palindrome_Sub_Strings_of_a_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Sub_Islands/Count_Sub_Islands.iml" filepath="$PROJECT_DIR$/Count_Sub_Islands/Count_Sub_Islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count_Vowels_Permutation/Count_Vowels_Permutation.iml" filepath="$PROJECT_DIR$/Count_Vowels_Permutation/Count_Vowels_Permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Words_Obtained_After_Adding_a_Letter/Count_Words_Obtained_After_Adding_a_Letter.iml" filepath="$PROJECT_DIR$/Count_Words_Obtained_After_Adding_a_Letter/Count_Words_Obtained_After_Adding_a_Letter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_digit_groupings_of_a_number/Count_digit_groupings_of_a_number.iml" filepath="$PROJECT_DIR$/Count_digit_groupings_of_a_number/Count_digit_groupings_of_a_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_of_Smaller_Numbers_After_Self/Count_of_Smaller_Numbers_After_Self.iml" filepath="$PROJECT_DIR$/Count_of_Smaller_Numbers_After_Self/Count_of_Smaller_Numbers_After_Self.iml" />
@@ -211,6 +213,7 @@
       <module fileurl="file://$PROJECT_DIR$/Minimum_Weighted_Subgraph_With_the_Required_Paths/Minimum_Weighted_Subgraph_With_the_Required_Paths.iml" filepath="$PROJECT_DIR$/Minimum_Weighted_Subgraph_With_the_Required_Paths/Minimum_Weighted_Subgraph_With_the_Required_Paths.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minimum_Window_Substring/Minimum_Window_Substring.iml" filepath="$PROJECT_DIR$/Minimum_Window_Substring/Minimum_Window_Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minimum_swap_required_to_convert_binary_tree_to_bst/Minimum_swap_required_to_convert_binary_tree_to_bst.iml" filepath="$PROJECT_DIR$/Minimum_swap_required_to_convert_binary_tree_to_bst/Minimum_swap_required_to_convert_binary_tree_to_bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mirror_Reflection/Mirror_Reflection.iml" filepath="$PROJECT_DIR$/Mirror_Reflection/Mirror_Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/My_Calendar_I/My_Calendar_I.iml" filepath="$PROJECT_DIR$/My_Calendar_I/My_Calendar_I.iml" />
       <module fileurl="file://$PROJECT_DIR$/N_Digit_numbers_with_digits_in_increasing_order/N_Digit_numbers_with_digits_in_increasing_order.iml" filepath="$PROJECT_DIR$/N_Digit_numbers_with_digits_in_increasing_order/N_Digit_numbers_with_digits_in_increasing_order.iml" />
       <module fileurl="file://$PROJECT_DIR$/N_th_Tribonacci_Number/N_th_Tribonacci_Number.iml" filepath="$PROJECT_DIR$/N_th_Tribonacci_Number/N_th_Tribonacci_Number.iml" />
@@ -246,11 +249,13 @@
       <module fileurl="file://$PROJECT_DIR$/Peeking_Iterator/Peeking_Iterator.iml" filepath="$PROJECT_DIR$/Peeking_Iterator/Peeking_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Perfect_Squares/Perfect_Squares.iml" filepath="$PROJECT_DIR$/Perfect_Squares/Perfect_Squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Permutation_Sequence/Permutation_Sequence.iml" filepath="$PROJECT_DIR$/Permutation_Sequence/Permutation_Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poor_Pigs/Poor_Pigs.iml" filepath="$PROJECT_DIR$/Poor_Pigs/Poor_Pigs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Positive_Negative_Pair/Positive_Negative_Pair.iml" filepath="$PROJECT_DIR$/Positive_Negative_Pair/Positive_Negative_Pair.iml" />
       <module fileurl="file://$PROJECT_DIR$/Possible_Bipartition/Possible_Bipartition.iml" filepath="$PROJECT_DIR$/Possible_Bipartition/Possible_Bipartition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" filepath="$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" filepath="$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Q_6/Q_6.iml" filepath="$PROJECT_DIR$/Q_6/Q_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" filepath="$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Random_Pick_with_Weight/Random_Pick_with_Weight.iml" filepath="$PROJECT_DIR$/Random_Pick_with_Weight/Random_Pick_with_Weight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Range_Sum_Query_2D_Immutable/Range_Sum_Query_2D_Immutable.iml" filepath="$PROJECT_DIR$/Range_Sum_Query_2D_Immutable/Range_Sum_Query_2D_Immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Range_Sum_Query_Mutable/Range_Sum_Query_Mutable.iml" filepath="$PROJECT_DIR$/Range_Sum_Query_Mutable/Range_Sum_Query_Mutable.iml" />

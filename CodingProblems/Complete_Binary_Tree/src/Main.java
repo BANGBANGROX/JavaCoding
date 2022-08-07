@@ -19,7 +19,7 @@ class Node{
 
 
 
-class Main {
+public class Main {
 
     static Node buildTree(String str){
 
