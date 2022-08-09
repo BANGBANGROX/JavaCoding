@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tree_to_Greater_Sum_Tree/Binary_Search_Tree_to_Greater_Sum_Tree.iml" filepath="$PROJECT_DIR$/Binary_Search_Tree_to_Greater_Sum_Tree/Binary_Search_Tree_to_Greater_Sum_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_Level_Order_Traversal_II/Binary_Tree_Level_Order_Traversal_II.iml" filepath="$PROJECT_DIR$/Binary_Tree_Level_Order_Traversal_II/Binary_Tree_Level_Order_Traversal_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Tree_to_CDLL/Binary_Tree_to_CDLL.iml" filepath="$PROJECT_DIR$/Binary_Tree_to_CDLL/Binary_Tree_to_CDLL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Trees_With_Factors/Binary_Trees_With_Factors.iml" filepath="$PROJECT_DIR$/Binary_Trees_With_Factors/Binary_Trees_With_Factors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" filepath="$PROJECT_DIR$/Boats_to_Save_People/Boats_to_Save_People.iml" />
       <module fileurl="file://$PROJECT_DIR$/Brackets_in_Matrix_Chain_Multiplication/Brackets_in_Matrix_Chain_Multiplication.iml" filepath="$PROJECT_DIR$/Brackets_in_Matrix_Chain_Multiplication/Brackets_in_Matrix_Chain_Multiplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Brain_Game/Brain_Game.iml" filepath="$PROJECT_DIR$/Brain_Game/Brain_Game.iml" />
@@ -227,6 +228,7 @@
       <module fileurl="file://$PROJECT_DIR$/Nearest_Exit_from_Entrance_in_Maze/Nearest_Exit_from_Entrance_in_Maze.iml" filepath="$PROJECT_DIR$/Nearest_Exit_from_Entrance_in_Maze/Nearest_Exit_from_Entrance_in_Maze.iml" />
       <module fileurl="file://$PROJECT_DIR$/Negative_weight_cycle/Negative_weight_cycle.iml" filepath="$PROJECT_DIR$/Negative_weight_cycle/Negative_weight_cycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Next_Permutation/Next_Permutation.iml" filepath="$PROJECT_DIR$/Next_Permutation/Next_Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nine_Divisors/Nine_Divisors.iml" filepath="$PROJECT_DIR$/Nine_Divisors/Nine_Divisors.iml" />
       <module fileurl="file://$PROJECT_DIR$/Node_at_distance/Node_at_distance.iml" filepath="$PROJECT_DIR$/Node_at_distance/Node_at_distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nodes_at_even_distance/Nodes_at_even_distance.iml" filepath="$PROJECT_DIR$/Nodes_at_even_distance/Nodes_at_even_distance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_of_Closed_Islands/Number_of_Closed_Islands.iml" filepath="$PROJECT_DIR$/Number_of_Closed_Islands/Number_of_Closed_Islands.iml" />
