@@ -83,6 +83,7 @@
       <module fileurl="file://$PROJECT_DIR$/Count_number_of_substrings/Count_number_of_substrings.iml" filepath="$PROJECT_DIR$/Count_number_of_substrings/Count_number_of_substrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_of_Smaller_Numbers_After_Self/Count_of_Smaller_Numbers_After_Self.iml" filepath="$PROJECT_DIR$/Count_of_Smaller_Numbers_After_Self/Count_of_Smaller_Numbers_After_Self.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_ways_to_N_th_Stair_Order_does_not_matter/Count_ways_to_N_th_Stair_Order_does_not_matter.iml" filepath="$PROJECT_DIR$/Count_ways_to_N_th_Stair_Order_does_not_matter/Count_ways_to_N_th_Stair_Order_does_not_matter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counting_elements_in_two_arrays/Counting_elements_in_two_arrays.iml" filepath="$PROJECT_DIR$/Counting_elements_in_two_arrays/Counting_elements_in_two_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Counts_Zeros_Xor_Pairs/Counts_Zeros_Xor_Pairs.iml" filepath="$PROJECT_DIR$/Counts_Zeros_Xor_Pairs/Counts_Zeros_Xor_Pairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course_Schedule/Course_Schedule.iml" filepath="$PROJECT_DIR$/Course_Schedule/Course_Schedule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decode_Ways/Decode_Ways.iml" filepath="$PROJECT_DIR$/Decode_Ways/Decode_Ways.iml" />
@@ -118,6 +119,7 @@
       <module fileurl="file://$PROJECT_DIR$/Find_the_Student_that_Will_Replace_the_Chalk/Find_the_Student_that_Will_Replace_the_Chalk.iml" filepath="$PROJECT_DIR$/Find_the_Student_that_Will_Replace_the_Chalk/Find_the_Student_that_Will_Replace_the_Chalk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_the_Town_Judge/Find_the_Town_Judge.iml" filepath="$PROJECT_DIR$/Find_the_Town_Judge/Find_the_Town_Judge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flood_Fill/Flood_Fill.iml" filepath="$PROJECT_DIR$/Flood_Fill/Flood_Fill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Foldable_Binary_Tree/Foldable_Binary_Tree.iml" filepath="$PROJECT_DIR$/Foldable_Binary_Tree/Foldable_Binary_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Frequency_of_the_Most_Frequent_Element/Frequency_of_the_Most_Frequent_Element.iml" filepath="$PROJECT_DIR$/Frequency_of_the_Most_Frequent_Element/Frequency_of_the_Most_Frequent_Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Game_of_Life/Game_of_Life.iml" filepath="$PROJECT_DIR$/Game_of_Life/Game_of_Life.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gas_Station/Gas_Station.iml" filepath="$PROJECT_DIR$/Gas_Station/Gas_Station.iml" />
@@ -134,6 +136,7 @@
       <module fileurl="file://$PROJECT_DIR$/Implementing_Dijkstra_Algorithm/Implementing_Dijkstra_Algorithm.iml" filepath="$PROJECT_DIR$/Implementing_Dijkstra_Algorithm/Implementing_Dijkstra_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Insert_into_a_Binary_Search_Tree/Insert_into_a_Binary_Search_Tree.iml" filepath="$PROJECT_DIR$/Insert_into_a_Binary_Search_Tree/Insert_into_a_Binary_Search_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integer_Break/Integer_Break.iml" filepath="$PROJECT_DIR$/Integer_Break/Integer_Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integer_Replacement/Integer_Replacement.iml" filepath="$PROJECT_DIR$/Integer_Replacement/Integer_Replacement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Integer_to_Words/Integer_to_Words.iml" filepath="$PROJECT_DIR$/Integer_to_Words/Integer_to_Words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interleaving_String/Interleaving_String.iml" filepath="$PROJECT_DIR$/Interleaving_String/Interleaving_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Is_Binary_Number_Multiple_of_3/Is_Binary_Number_Multiple_of_3.iml" filepath="$PROJECT_DIR$/Is_Binary_Number_Multiple_of_3/Is_Binary_Number_Multiple_of_3.iml" />
@@ -187,6 +190,7 @@
       <module fileurl="file://$PROJECT_DIR$/Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.iml" filepath="$PROJECT_DIR$/Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Subarray/Maximum_Subarray.iml" filepath="$PROJECT_DIR$/Maximum_Subarray/Maximum_Subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Sum_Circular_Subarray/Maximum_Sum_Circular_Subarray.iml" filepath="$PROJECT_DIR$/Maximum_Sum_Circular_Subarray/Maximum_Sum_Circular_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Swap/Maximum_Swap.iml" filepath="$PROJECT_DIR$/Maximum_Swap/Maximum_Swap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Twin_Sum_of_a_Linked_List/Maximum_Twin_Sum_of_a_Linked_List.iml" filepath="$PROJECT_DIR$/Maximum_Twin_Sum_of_a_Linked_List/Maximum_Twin_Sum_of_a_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.iml" filepath="$PROJECT_DIR$/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Value_of_K_Coins_From_Piles/Maximum_Value_of_K_Coins_From_Piles.iml" filepath="$PROJECT_DIR$/Maximum_Value_of_K_Coins_From_Piles/Maximum_Value_of_K_Coins_From_Piles.iml" />
@@ -306,6 +310,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spidey_Sense/Spidey_Sense.iml" filepath="$PROJECT_DIR$/Spidey_Sense/Spidey_Sense.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spiral_Matrix_II/Spiral_Matrix_II.iml" filepath="$PROJECT_DIR$/Spiral_Matrix_II/Spiral_Matrix_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Split_Array_Largest_Sum/Split_Array_Largest_Sum.iml" filepath="$PROJECT_DIR$/Split_Array_Largest_Sum/Split_Array_Largest_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stamping_The_Sequence/Stamping_The_Sequence.iml" filepath="$PROJECT_DIR$/Stamping_The_Sequence/Stamping_The_Sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stamping_the_Grid/Stamping_the_Grid.iml" filepath="$PROJECT_DIR$/Stamping_the_Grid/Stamping_the_Grid.iml" />
       <module fileurl="file://$PROJECT_DIR$/Step_By_Step_Directions_From_a_Binary_Tree_Node_to_Another/Step_By_Step_Directions_From_a_Binary_Tree_Node_to_Another.iml" filepath="$PROJECT_DIR$/Step_By_Step_Directions_From_a_Binary_Tree_Node_to_Another/Step_By_Step_Directions_From_a_Binary_Tree_Node_to_Another.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stone_Game/Stone_Game.iml" filepath="$PROJECT_DIR$/Stone_Game/Stone_Game.iml" />
