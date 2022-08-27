@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Add_all_greater_values_to_every_node_in_a_BST/Add_all_greater_values_to_every_node_in_a_BST.iml" filepath="$PROJECT_DIR$/Add_all_greater_values_to_every_node_in_a_BST/Add_all_greater_values_to_every_node_in_a_BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adventure_in_a_Maze/Adventure_in_a_Maze.iml" filepath="$PROJECT_DIR$/Adventure_in_a_Maze/Adventure_in_a_Maze.iml" />
       <module fileurl="file://$PROJECT_DIR$/All_Paths_From_Source_to_Target/All_Paths_From_Source_to_Target.iml" filepath="$PROJECT_DIR$/All_Paths_From_Source_to_Target/All_Paths_From_Source_to_Target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alternate_positive_and_negative_numbers/Alternate_positive_and_negative_numbers.iml" filepath="$PROJECT_DIR$/Alternate_positive_and_negative_numbers/Alternate_positive_and_negative_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arithmetic_Slices/Arithmetic_Slices.iml" filepath="$PROJECT_DIR$/Arithmetic_Slices/Arithmetic_Slices.iml" />
       <module fileurl="file://$PROJECT_DIR$/As_Far_from_Land_as_Possible/As_Far_from_Land_as_Possible.iml" filepath="$PROJECT_DIR$/As_Far_from_Land_as_Possible/As_Far_from_Land_as_Possible.iml" />
       <module fileurl="file://$PROJECT_DIR$/Asteroid_Collision/Asteroid_Collision.iml" filepath="$PROJECT_DIR$/Asteroid_Collision/Asteroid_Collision.iml" />
@@ -279,6 +280,7 @@
       <module fileurl="file://$PROJECT_DIR$/Remove_K_Digits/Remove_K_Digits.iml" filepath="$PROJECT_DIR$/Remove_K_Digits/Remove_K_Digits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Remove_Nth_Node_From_End_of_List/Remove_Nth_Node_From_End_of_List.iml" filepath="$PROJECT_DIR$/Remove_Nth_Node_From_End_of_List/Remove_Nth_Node_From_End_of_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.iml" filepath="$PROJECT_DIR$/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reordered_Power_of_2/Reordered_Power_of_2.iml" filepath="$PROJECT_DIR$/Reordered_Power_of_2/Reordered_Power_of_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Replace_Non_Coprime_Numbers_in_Array/Replace_Non_Coprime_Numbers_in_Array.iml" filepath="$PROJECT_DIR$/Replace_Non_Coprime_Numbers_in_Array/Replace_Non_Coprime_Numbers_in_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse_First_K_elements_of_Queue/Reverse_First_K_elements_of_Queue.iml" filepath="$PROJECT_DIR$/Reverse_First_K_elements_of_Queue/Reverse_First_K_elements_of_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse_String/Reverse_String.iml" filepath="$PROJECT_DIR$/Reverse_String/Reverse_String.iml" />
