@@ -97,6 +97,7 @@
       <module fileurl="file://$PROJECT_DIR$/Design_Underground_System/Design_Underground_System.iml" filepath="$PROJECT_DIR$/Design_Underground_System/Design_Underground_System.iml" />
       <module fileurl="file://$PROJECT_DIR$/Distance_from_the_Source_Bellman_Ford_Algorithm/Distance_from_the_Source_Bellman_Ford_Algorithm.iml" filepath="$PROJECT_DIR$/Distance_from_the_Source_Bellman_Ford_Algorithm/Distance_from_the_Source_Bellman_Ford_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Distinct_palindromic_substrings/Distinct_palindromic_substrings.iml" filepath="$PROJECT_DIR$/Distinct_palindromic_substrings/Distinct_palindromic_substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Distribute_N_candies_among_K_people/Distribute_N_candies_among_K_people.iml" filepath="$PROJECT_DIR$/Distribute_N_candies_among_K_people/Distribute_N_candies_among_K_people.iml" />
       <module fileurl="file://$PROJECT_DIR$/Divide_a_String_Into_Groups_of_Size_k/Divide_a_String_Into_Groups_of_Size_k.iml" filepath="$PROJECT_DIR$/Divide_a_String_Into_Groups_of_Size_k/Divide_a_String_Into_Groups_of_Size_k.iml" />
       <module fileurl="file://$PROJECT_DIR$/Earliest_Possible_Day_of_Full_Bloom/Earliest_Possible_Day_of_Full_Bloom.iml" filepath="$PROJECT_DIR$/Earliest_Possible_Day_of_Full_Bloom/Earliest_Possible_Day_of_Full_Bloom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Edit_Distance/Edit_Distance.iml" filepath="$PROJECT_DIR$/Edit_Distance/Edit_Distance.iml" />
@@ -117,7 +118,9 @@
       <module fileurl="file://$PROJECT_DIR$/Find_Palindrome_With_Fixed_Length/Find_Palindrome_With_Fixed_Length.iml" filepath="$PROJECT_DIR$/Find_Palindrome_With_Fixed_Length/Find_Palindrome_With_Fixed_Length.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_Peak_Element/Find_Peak_Element.iml" filepath="$PROJECT_DIR$/Find_Peak_Element/Find_Peak_Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_a_Peak_Element_II/Find_a_Peak_Element_II.iml" filepath="$PROJECT_DIR$/Find_a_Peak_Element_II/Find_a_Peak_Element_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find_all_distinct_subset_or_subsequence_sums/Find_all_distinct_subset_or_subsequence_sums.iml" filepath="$PROJECT_DIR$/Find_all_distinct_subset_or_subsequence_sums/Find_all_distinct_subset_or_subsequence_sums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_length_of_Loop/Find_length_of_Loop.iml" filepath="$PROJECT_DIR$/Find_length_of_Loop/Find_length_of_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find_pairs_with_given_sum_in_doubly_linked_list/Find_pairs_with_given_sum_in_doubly_linked_list.iml" filepath="$PROJECT_DIR$/Find_pairs_with_given_sum_in_doubly_linked_list/Find_pairs_with_given_sum_in_doubly_linked_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_the_Duplicate_Number/Find_the_Duplicate_Number.iml" filepath="$PROJECT_DIR$/Find_the_Duplicate_Number/Find_the_Duplicate_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_the_Student_that_Will_Replace_the_Chalk/Find_the_Student_that_Will_Replace_the_Chalk.iml" filepath="$PROJECT_DIR$/Find_the_Student_that_Will_Replace_the_Chalk/Find_the_Student_that_Will_Replace_the_Chalk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_the_Town_Judge/Find_the_Town_Judge.iml" filepath="$PROJECT_DIR$/Find_the_Town_Judge/Find_the_Town_Judge.iml" />
@@ -206,6 +209,7 @@
       <module fileurl="file://$PROJECT_DIR$/Median_of_Two_Sorted_Arrays/Median_of_Two_Sorted_Arrays.iml" filepath="$PROJECT_DIR$/Median_of_Two_Sorted_Arrays/Median_of_Two_Sorted_Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge_k_Sorted_Lists/Merge_k_Sorted_Lists.iml" filepath="$PROJECT_DIR$/Merge_k_Sorted_Lists/Merge_k_Sorted_Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge_two_binary_Max_heaps/Merge_two_binary_Max_heaps.iml" filepath="$PROJECT_DIR$/Merge_two_binary_Max_heaps/Merge_two_binary_Max_heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merging_Details/Merging_Details.iml" filepath="$PROJECT_DIR$/Merging_Details/Merging_Details.iml" />
       <module fileurl="file://$PROJECT_DIR$/Min_Coin/Min_Coin.iml" filepath="$PROJECT_DIR$/Min_Coin/Min_Coin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Min_Cost_Climbing_Stairs/Min_Cost_Climbing_Stairs.iml" filepath="$PROJECT_DIR$/Min_Cost_Climbing_Stairs/Min_Cost_Climbing_Stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Min_Cost_to_Connect_All_Points/Min_Cost_to_Connect_All_Points.iml" filepath="$PROJECT_DIR$/Min_Cost_to_Connect_All_Points/Min_Cost_to_Connect_All_Points.iml" />
@@ -265,6 +269,7 @@
       <module fileurl="file://$PROJECT_DIR$/Partition_List/Partition_List.iml" filepath="$PROJECT_DIR$/Partition_List/Partition_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pascal_Triangle/Pascal_Triangle.iml" filepath="$PROJECT_DIR$/Pascal_Triangle/Pascal_Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pascal_Triangle_II/Pascal_Triangle_II.iml" filepath="$PROJECT_DIR$/Pascal_Triangle_II/Pascal_Triangle_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Paths_from_root_with_a_specified_sum/Paths_from_root_with_a_specified_sum.iml" filepath="$PROJECT_DIR$/Paths_from_root_with_a_specified_sum/Paths_from_root_with_a_specified_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Peeking_Iterator/Peeking_Iterator.iml" filepath="$PROJECT_DIR$/Peeking_Iterator/Peeking_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Perfect_Squares/Perfect_Squares.iml" filepath="$PROJECT_DIR$/Perfect_Squares/Perfect_Squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Permutation_Sequence/Permutation_Sequence.iml" filepath="$PROJECT_DIR$/Permutation_Sequence/Permutation_Sequence.iml" />
@@ -274,6 +279,7 @@
       <module fileurl="file://$PROJECT_DIR$/Possible_Bipartition/Possible_Bipartition.iml" filepath="$PROJECT_DIR$/Possible_Bipartition/Possible_Bipartition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pots_of_Gold_Game/Pots_of_Gold_Game.iml" filepath="$PROJECT_DIR$/Pots_of_Gold_Game/Pots_of_Gold_Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" filepath="$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print_the_Sequence/Print_the_Sequence.iml" filepath="$PROJECT_DIR$/Print_the_Sequence/Print_the_Sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" filepath="$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Q_6/Q_6.iml" filepath="$PROJECT_DIR$/Q_6/Q_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" filepath="$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" />
