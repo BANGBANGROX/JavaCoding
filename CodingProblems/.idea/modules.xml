@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/As_Far_from_Land_as_Possible/As_Far_from_Land_as_Possible.iml" filepath="$PROJECT_DIR$/As_Far_from_Land_as_Possible/As_Far_from_Land_as_Possible.iml" />
       <module fileurl="file://$PROJECT_DIR$/Asteroid_Collision/Asteroid_Collision.iml" filepath="$PROJECT_DIR$/Asteroid_Collision/Asteroid_Collision.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atlassian_Question/Atlassian_Question.iml" filepath="$PROJECT_DIR$/Atlassian_Question/Atlassian_Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" filepath="$PROJECT_DIR$/Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Avoid_Flood_in_The_City/Avoid_Flood_in_The_City.iml" filepath="$PROJECT_DIR$/Avoid_Flood_in_The_City/Avoid_Flood_in_The_City.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_Calculator_II/Basic_Calculator_II.iml" filepath="$PROJECT_DIR$/Basic_Calculator_II/Basic_Calculator_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beautiful_Arrangement/Beautiful_Arrangement.iml" filepath="$PROJECT_DIR$/Beautiful_Arrangement/Beautiful_Arrangement.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" filepath="$PROJECT_DIR$/Can_Place_Flowers/Can_Place_Flowers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Capitalize_the_Title/Capitalize_the_Title.iml" filepath="$PROJECT_DIR$/Capitalize_the_Title/Capitalize_the_Title.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car_Pooling/Car_Pooling.iml" filepath="$PROJECT_DIR$/Car_Pooling/Car_Pooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Check_Distances_Between_Same_Letters/Check_Distances_Between_Same_Letters.iml" filepath="$PROJECT_DIR$/Check_Distances_Between_Same_Letters/Check_Distances_Between_Same_Letters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Check_if_Every_Row_and_Column_Contains_All_Numbers/Check_if_Every_Row_and_Column_Contains_All_Numbers.iml" filepath="$PROJECT_DIR$/Check_if_Every_Row_and_Column_Contains_All_Numbers/Check_if_Every_Row_and_Column_Contains_All_Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Check_if_a_Parentheses_String_Can_Be_Valid/Check_if_a_Parentheses_String_Can_Be_Valid.iml" filepath="$PROJECT_DIR$/Check_if_a_Parentheses_String_Can_Be_Valid/Check_if_a_Parentheses_String_Can_Be_Valid.iml" />
       <module fileurl="file://$PROJECT_DIR$/Check_if_subtree/Check_if_subtree.iml" filepath="$PROJECT_DIR$/Check_if_subtree/Check_if_subtree.iml" />
@@ -78,6 +80,7 @@
       <module fileurl="file://$PROJECT_DIR$/Count_All_Valid_Pickup_and_Delivery_Options/Count_All_Valid_Pickup_and_Delivery_Options.iml" filepath="$PROJECT_DIR$/Count_All_Valid_Pickup_and_Delivery_Options/Count_All_Valid_Pickup_and_Delivery_Options.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Array_Pairs_Divisible_by_K/Count_Array_Pairs_Divisible_by_K.iml" filepath="$PROJECT_DIR$/Count_Array_Pairs_Divisible_by_K/Count_Array_Pairs_Divisible_by_K.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Complete_Tree_Nodes/Count_Complete_Tree_Nodes.iml" filepath="$PROJECT_DIR$/Count_Complete_Tree_Nodes/Count_Complete_Tree_Nodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count_Good_Nodes_in_Binary_Tree/Count_Good_Nodes_in_Binary_Tree.iml" filepath="$PROJECT_DIR$/Count_Good_Nodes_in_Binary_Tree/Count_Good_Nodes_in_Binary_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Palindrome_Sub_Strings_of_a_String/Count_Palindrome_Sub_Strings_of_a_String.iml" filepath="$PROJECT_DIR$/Count_Palindrome_Sub_Strings_of_a_String/Count_Palindrome_Sub_Strings_of_a_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Sub_Islands/Count_Sub_Islands.iml" filepath="$PROJECT_DIR$/Count_Sub_Islands/Count_Sub_Islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_Vowels_Permutation/Count_Vowels_Permutation.iml" filepath="$PROJECT_DIR$/Count_Vowels_Permutation/Count_Vowels_Permutation.iml" />
@@ -91,6 +94,7 @@
       <module fileurl="file://$PROJECT_DIR$/Course_Schedule/Course_Schedule.iml" filepath="$PROJECT_DIR$/Course_Schedule/Course_Schedule.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decode_Ways/Decode_Ways.iml" filepath="$PROJECT_DIR$/Decode_Ways/Decode_Ways.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decode_Ways_II/Decode_Ways_II.iml" filepath="$PROJECT_DIR$/Decode_Ways_II/Decode_Ways_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delete_Nodes_And_Return_Forest/Delete_Nodes_And_Return_Forest.iml" filepath="$PROJECT_DIR$/Delete_Nodes_And_Return_Forest/Delete_Nodes_And_Return_Forest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Delete_and_Earn/Delete_and_Earn.iml" filepath="$PROJECT_DIR$/Delete_and_Earn/Delete_and_Earn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Delete_nodes_greater_than_k/Delete_nodes_greater_than_k.iml" filepath="$PROJECT_DIR$/Delete_nodes_greater_than_k/Delete_nodes_greater_than_k.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_HashMap/Design_HashMap.iml" filepath="$PROJECT_DIR$/Design_HashMap/Design_HashMap.iml" />
@@ -117,6 +121,7 @@
       <module fileurl="file://$PROJECT_DIR$/Find_Missing_And_Repeating/Find_Missing_And_Repeating.iml" filepath="$PROJECT_DIR$/Find_Missing_And_Repeating/Find_Missing_And_Repeating.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_Palindrome_With_Fixed_Length/Find_Palindrome_With_Fixed_Length.iml" filepath="$PROJECT_DIR$/Find_Palindrome_With_Fixed_Length/Find_Palindrome_With_Fixed_Length.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_Peak_Element/Find_Peak_Element.iml" filepath="$PROJECT_DIR$/Find_Peak_Element/Find_Peak_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find_Subarrays_With_Equal_Sum/Find_Subarrays_With_Equal_Sum.iml" filepath="$PROJECT_DIR$/Find_Subarrays_With_Equal_Sum/Find_Subarrays_With_Equal_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_a_Peak_Element_II/Find_a_Peak_Element_II.iml" filepath="$PROJECT_DIR$/Find_a_Peak_Element_II/Find_a_Peak_Element_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_all_distinct_subset_or_subsequence_sums/Find_all_distinct_subset_or_subsequence_sums.iml" filepath="$PROJECT_DIR$/Find_all_distinct_subset_or_subsequence_sums/Find_all_distinct_subset_or_subsequence_sums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_length_of_Loop/Find_length_of_Loop.iml" filepath="$PROJECT_DIR$/Find_length_of_Loop/Find_length_of_Loop.iml" />
@@ -172,6 +177,7 @@
       <module fileurl="file://$PROJECT_DIR$/Longest_Common_Subsequence/Longest_Common_Subsequence.iml" filepath="$PROJECT_DIR$/Longest_Common_Subsequence/Longest_Common_Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Consecutive_Sequence/Longest_Consecutive_Sequence.iml" filepath="$PROJECT_DIR$/Longest_Consecutive_Sequence/Longest_Consecutive_Sequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/Longest_Increasing_Subsequence.iml" filepath="$PROJECT_DIR$/Longest_Increasing_Subsequence/Longest_Increasing_Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest_Nice_Subarray/Longest_Nice_Subarray.iml" filepath="$PROJECT_DIR$/Longest_Nice_Subarray/Longest_Nice_Subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Palindrome_by_Concatenating_Two_Letter_Words/Longest_Palindrome_by_Concatenating_Two_Letter_Words.iml" filepath="$PROJECT_DIR$/Longest_Palindrome_by_Concatenating_Two_Letter_Words/Longest_Palindrome_by_Concatenating_Two_Letter_Words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Palindromic_Subsequence/Longest_Palindromic_Subsequence.iml" filepath="$PROJECT_DIR$/Longest_Palindromic_Subsequence/Longest_Palindromic_Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Palindromic_Substring/Longest_Palindromic_Substring.iml" filepath="$PROJECT_DIR$/Longest_Palindromic_Substring/Longest_Palindromic_Substring.iml" />
@@ -191,6 +197,7 @@
       <module fileurl="file://$PROJECT_DIR$/Maximum_Difference_Between_Node_and_Ancestor/Maximum_Difference_Between_Node_and_Ancestor.iml" filepath="$PROJECT_DIR$/Maximum_Difference_Between_Node_and_Ancestor/Maximum_Difference_Between_Node_and_Ancestor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Index/Maximum_Index.iml" filepath="$PROJECT_DIR$/Maximum_Index/Maximum_Index.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Length_of_Subarray_With_Positive_Product/Maximum_Length_of_Subarray_With_Positive_Product.iml" filepath="$PROJECT_DIR$/Maximum_Length_of_Subarray_With_Positive_Product/Maximum_Length_of_Subarray_With_Positive_Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Number_of_Robots_Within_Budget/Maximum_Number_of_Robots_Within_Budget.iml" filepath="$PROJECT_DIR$/Maximum_Number_of_Robots_Within_Budget/Maximum_Number_of_Robots_Within_Budget.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Product_Subarray/Maximum_Product_Subarray.iml" filepath="$PROJECT_DIR$/Maximum_Product_Subarray/Maximum_Product_Subarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Product_of_Increasing_Subsequence_of_Size_3/Maximum_Product_of_Increasing_Subsequence_of_Size_3.iml" filepath="$PROJECT_DIR$/Maximum_Product_of_Increasing_Subsequence_of_Size_3/Maximum_Product_of_Increasing_Subsequence_of_Size_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Running_Time_of_N_Computers/Maximum_Running_Time_of_N_Computers.iml" filepath="$PROJECT_DIR$/Maximum_Running_Time_of_N_Computers/Maximum_Running_Time_of_N_Computers.iml" />
@@ -207,6 +214,7 @@
       <module fileurl="file://$PROJECT_DIR$/Maximum_sum_Rectangle/Maximum_sum_Rectangle.iml" filepath="$PROJECT_DIR$/Maximum_sum_Rectangle/Maximum_sum_Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_sum_of_increasing_order_elements_from_n_arrays/Maximum_sum_of_increasing_order_elements_from_n_arrays.iml" filepath="$PROJECT_DIR$/Maximum_sum_of_increasing_order_elements_from_n_arrays/Maximum_sum_of_increasing_order_elements_from_n_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Median_of_Two_Sorted_Arrays/Median_of_Two_Sorted_Arrays.iml" filepath="$PROJECT_DIR$/Median_of_Two_Sorted_Arrays/Median_of_Two_Sorted_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meeting_Rooms_III/Meeting_Rooms_III.iml" filepath="$PROJECT_DIR$/Meeting_Rooms_III/Meeting_Rooms_III.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge_k_Sorted_Lists/Merge_k_Sorted_Lists.iml" filepath="$PROJECT_DIR$/Merge_k_Sorted_Lists/Merge_k_Sorted_Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge_two_binary_Max_heaps/Merge_two_binary_Max_heaps.iml" filepath="$PROJECT_DIR$/Merge_two_binary_Max_heaps/Merge_two_binary_Max_heaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merging_Details/Merging_Details.iml" filepath="$PROJECT_DIR$/Merging_Details/Merging_Details.iml" />
@@ -236,6 +244,7 @@
       <module fileurl="file://$PROJECT_DIR$/Mirror_Reflection/Mirror_Reflection.iml" filepath="$PROJECT_DIR$/Mirror_Reflection/Mirror_Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/My_Calendar_I/My_Calendar_I.iml" filepath="$PROJECT_DIR$/My_Calendar_I/My_Calendar_I.iml" />
       <module fileurl="file://$PROJECT_DIR$/N_Digit_numbers_with_digits_in_increasing_order/N_Digit_numbers_with_digits_in_increasing_order.iml" filepath="$PROJECT_DIR$/N_Digit_numbers_with_digits_in_increasing_order/N_Digit_numbers_with_digits_in_increasing_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/N_ary_Tree_Level_Order_Traversal/N_ary_Tree_Level_Order_Traversal.iml" filepath="$PROJECT_DIR$/N_ary_Tree_Level_Order_Traversal/N_ary_Tree_Level_Order_Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/N_th_Tribonacci_Number/N_th_Tribonacci_Number.iml" filepath="$PROJECT_DIR$/N_th_Tribonacci_Number/N_th_Tribonacci_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/Name_With_Initials/Name_With_Initials.iml" filepath="$PROJECT_DIR$/Name_With_Initials/Name_With_Initials.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nearest_Exit_from_Entrance_in_Maze/Nearest_Exit_from_Entrance_in_Maze.iml" filepath="$PROJECT_DIR$/Nearest_Exit_from_Entrance_in_Maze/Nearest_Exit_from_Entrance_in_Maze.iml" />
@@ -254,6 +263,8 @@
       <module fileurl="file://$PROJECT_DIR$/Number_of_Provinces/Number_of_Provinces.iml" filepath="$PROJECT_DIR$/Number_of_Provinces/Number_of_Provinces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.iml" filepath="$PROJECT_DIR$/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.iml" filepath="$PROJECT_DIR$/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps/Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps.iml" filepath="$PROJECT_DIR$/Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps/Number_of_Ways_to_Reach_a_Position_After_Exactly_k_Steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers_With_Same_Consecutive_Differences/Numbers_With_Same_Consecutive_Differences.iml" filepath="$PROJECT_DIR$/Numbers_With_Same_Consecutive_Differences/Numbers_With_Same_Consecutive_Differences.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ones_and_Zeroes/Ones_and_Zeroes.iml" filepath="$PROJECT_DIR$/Ones_and_Zeroes/Ones_and_Zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Online_Election/Online_Election.iml" filepath="$PROJECT_DIR$/Online_Election/Online_Election.iml" />
       <module fileurl="file://$PROJECT_DIR$/Open_the_Lock/Open_the_Lock.iml" filepath="$PROJECT_DIR$/Open_the_Lock/Open_the_Lock.iml" />
@@ -280,6 +291,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pots_of_Gold_Game/Pots_of_Gold_Game.iml" filepath="$PROJECT_DIR$/Pots_of_Gold_Game/Pots_of_Gold_Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" filepath="$PROJECT_DIR$/Preorder_to_BST/Preorder_to_BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Print_the_Sequence/Print_the_Sequence.iml" filepath="$PROJECT_DIR$/Print_the_Sequence/Print_the_Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print_the_pattern/Print_the_pattern.iml" filepath="$PROJECT_DIR$/Print_the_pattern/Print_the_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" filepath="$PROJECT_DIR$/Product_of_Primes/Product_of_Primes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Q_6/Q_6.iml" filepath="$PROJECT_DIR$/Q_6/Q_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" filepath="$PROJECT_DIR$/QuickSort_on_Doubly_Linked_List/QuickSort_on_Doubly_Linked_List.iml" />
@@ -339,6 +351,7 @@
       <module fileurl="file://$PROJECT_DIR$/Stone_Game_VI/Stone_Game_VI.iml" filepath="$PROJECT_DIR$/Stone_Game_VI/Stone_Game_VI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stone_Game_VII/Stone_Game_VII.iml" filepath="$PROJECT_DIR$/Stone_Game_VII/Stone_Game_VII.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stone_Game_VIII/Stone_Game_VIII.iml" filepath="$PROJECT_DIR$/Stone_Game_VIII/Stone_Game_VIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strictly_Palindromic_Number/Strictly_Palindromic_Number.iml" filepath="$PROJECT_DIR$/Strictly_Palindromic_Number/Strictly_Palindromic_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_to_Integer_atoi/String_to_Integer_atoi.iml" filepath="$PROJECT_DIR$/String_to_Integer_atoi/String_to_Integer_atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subarrays_with_sum_K/Subarrays_with_sum_K.iml" filepath="$PROJECT_DIR$/Subarrays_with_sum_K/Subarrays_with_sum_K.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subsets/Subsets.iml" filepath="$PROJECT_DIR$/Subsets/Subsets.iml" />
