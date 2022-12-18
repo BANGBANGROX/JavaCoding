@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd16a312-2e25-450e-b86c-5d1d4b5a8e92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_Divisors/3_Divisors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Divisors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aggressive_Cows/Aggressive_Cows.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aggressive_Cows/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alternate_Vowel_and_Consonant_String/Alternate_Vowel_and_Consonant_String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alternate_Vowel_and_Consonant_String/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Articulation_Point_I/Articulation_Point_I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Articulation_Point_I/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Break_a_number/Break_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Break_a_number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build_the_smallest/Build_the_smallest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Build_the_smallest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Check_if_it_is_possible_to_convert_one_string_into_another/Check_if_it_is_possible_to_convert_one_string_into_another.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Check_if_it_is_possible_to_convert_one_string_into_another/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_the_Number_of_Full_Binary_Trees/Count_the_Number_of_Full_Binary_Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_the_Number_of_Full_Binary_Trees/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Determine_if_Two_Strings_Are_Close/Determine_if_Two_Strings_Are_Close.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Determine_if_Two_Strings_Are_Close/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluate_Reverse_Polish_Notation/Evaluate_Reverse_Polish_Notation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Evaluate_Reverse_Polish_Notation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_number_of_closed_islands/Find_number_of_closed_islands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_number_of_closed_islands/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insert_Delete_GetRandom_O(1)/Insert_Delete_GetRandom_O(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Insert_Delete_GetRandom_O(1)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leaf_Similar_Trees/Leaf_Similar_Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leaf_Similar_Trees/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Product_of_Splitted_Binary_Tree/Maximum_Product_of_Splitted_Binary_Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Product_of_Splitted_Binary_Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Average_Difference/Minimum_Average_Difference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Average_Difference/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reorder_List/Reorder_List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reorder_List/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Path_by_Removing_K_walls/Shortest_Path_by_Removing_K_walls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Path_by_Removing_K_walls/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split_Array_Largest_Sum_GFG/Split_Array_Largest_Sum_GFG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split_Array_Largest_Sum_GFG/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Game_of_LCM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2J3NDCoLwHE6wZCkxht1Apntebk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd16a312-2e25-450e-b86c-5d1d4b5a8e92" name="Changes" comment="" />
+      <created>1671302686559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671302686559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
