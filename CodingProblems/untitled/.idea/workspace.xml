@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381f8dd2-59af-4dd0-accc-e360608a86e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_sum_closest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../All_Unique_Permutations_of_an_array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Avoid_Explosion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST_Downward_Traversal/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BST_Maximum_Difference/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Best_Node/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Best_Price/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculate_The_Work_Done/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Capacity_To_Ship_Packages_Within_D_Days/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cars_on_Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colourful_Numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connect_Nodes_at_Same_Level/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Cyclic_Paths/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Divisors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Divisors_of_Factorial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Subarrays_With_Fixed_Bounds/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_number_of_free_cell/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Count_the_Number_of_Square_Free_Subsets/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design_Add_and_Search_Words_Data_Structure/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design_Browser_History/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design_a_tiny_URL_or_URL_shortener/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Distribute_Chocolates/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Divide_in_Incremental_Groups/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Equal_Grouping/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Even_Swap/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventual_Safe_States/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Express_as_sum_of_power_of_natural_numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fill_the_Matrix/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_anagrams_in_linked_list/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_element_occuring_once_when_all_other_are_present_thrice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_the_Divisibility_Array_of_a_String/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_the_Maximum_Number_of_Marked_Indices/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_the_String_with_LCP/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_the_number_of_subarrays_having_even_sum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fixing_Two_swapped_nodes_of_a_BST/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fruit_Into_Baskets/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_hates_too_many_1s/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_Island/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Good_Stones/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intersection_Point_in_Y_Shaped_Linked_Lists/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Is_it_Fibonacci/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Juggling/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Knight_in_Geekland/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kth_Largest_Sum_in_a_Binary_Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Least_Beautiful_Box/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Length_of_the_longest_subarray_with_positive_product/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest_Cycle_in_a_Graph/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Longest_Span_in_two_Binary_Arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lucky_alive_person_in_a_circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Magical_Subarrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Make_Array_Beautiful/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Marks_of_PCM/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_min_Height/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Max_value_after_m_range_operation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum Number of coins/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Bipartite_Matching/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_Possible_Value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maximum_XOR_subarray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Median_of_the_Subarrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mex_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Min_Jump/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimize_Max_Distance_to_Gas_Station/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Days/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Fuel_Cost_to_Report_to_the_Capital/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Impossible_OR/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Operations_to_Reduce_an_Integer_to_0/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Score_by_Changing_Two_Elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minimum_Time_to_Visit_a_Cell_In_a_Grid/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mr_Modulo_and_Pairs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Naming_a_Company/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_of_Good_Components/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Number_of_Ways_of_Cutting_a_Pizza/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Occurrences_of_101/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operations_on_PriorityQueue/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Optimal_Array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Permutation_Making/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Possible_groups/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Power_of_Largest_Prime/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Powerful_Node/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Predict_the_Winner/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prime_List/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Range_Minimum_Query/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reducing_Dishes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Remove_and_Reverse/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Second_smallest_number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Path_Using_Atmost_One_Curved_Edge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Path_in_Weighted_undirected_graph/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_Prime_Path_GFG/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shortest_XY_distance_in_Grid/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Special_Palindrome_Substrings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spidey_Sense_GFG/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Split_the_Array_to_Make_Coprime_Products/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String_Compression/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum_of_XOR_of_all_pairs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Super_Ugly_Number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Top_k_numbers_in_a_stream/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Toy_Shelf/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unique_Paths_in_a_Grid/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Valid_Compressed_String/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Walls_Coloring_II/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Will_Student_Pass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yet_another_query_problem/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2NqpWw2ryCad9mz8fClrYd7IzVe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381f8dd2-59af-4dd0-accc-e360608a86e0" name="Changes" comment="" />
+      <created>1680401504179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680401504179</updated>
+    </task>
+    <servers />
+  </component>
+</project>
