@@ -1,57 +1,44 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 class Solution {
-    private int[][][][] dp;
-    private String s;
-
     private int calculateLength(int num) {
-        if (num == 0) return 0;
-
-        if (num == 1) return 1;
-
-        if (num < 10) return 2;
-
-        if (num < 100) return 3;
-
-        return 4;
-    }
-
-    private int dfs(int index, int k, char previousChar, int currentCnt) {
-        if (index == s.length()) return calculateLength(currentCnt);
-
-        if (previousChar != '#' && dp[index][k][previousChar - 'a'][currentCnt] != -1)
-            return dp[index][k][previousChar - 'a'][currentCnt];
-
-        int ans = Integer.MAX_VALUE;
-
-        if (k > 0) ans = dfs(index + 1, k - 1, previousChar, currentCnt);
-
-        if (s.charAt(index) == previousChar) {
-            ans = Math.min(ans, dfs(index + 1, k, previousChar, currentCnt + 1));
-        }
-        else {
-            ans = Math.min(ans, calculateLength(currentCnt) + dfs(index + 1, k, s.charAt(index), 1));
-        }
-
-        return previousChar == '#' ? ans : (dp[index][k][previousChar - 'a'][currentCnt] = ans);
+        return num > 1 ? num > 9 ? num > 99 ? num > 999 ? 4 : 3 : 2 : 1 : 0;
     }
 
     public int getLengthOfOptimalCompression(String s, int k) {
-        this.s = s;
         int n = s.length();
-        dp = new int[n][k + 1][26][101];
+        int[][] dp = new int[n + 1][k + 1];
 
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i <= n; ++i) {
+            Arrays.fill(dp[i], 9999);
+        }
+
+        dp[0][0] = 0;
+
+        for (int i = 1; i <= n; ++i) {
             for (int j = 0; j <= k; ++j) {
-                for (int l = 0; l < 26; ++l) {
-                    for (int m = 0; m < 101; ++m) {
-                        dp[i][j][l][m] = -1;
+                int cnt = 0;
+                int del = 0;
+                for (int l = i; l >= 1; --l) {
+                    if (s.charAt(l - 1) == s.charAt(i - 1)) {
+                        ++cnt;
                     }
+                    else {
+                        ++del;
+                    }
+                    if (del <= j) {
+                        dp[i][j] = Math.min(dp[i][j], dp[l - 1][j - del] + 1 +
+                                calculateLength(cnt));
+                    }
+                }
+                if (j > 0) {
+                    dp[i][j] = Math.min(dp[i][j], dp[i - 1][j - 1]);
                 }
             }
         }
 
-        return dfs(0, k, '#', 0);
+        return dp[n][k];
     }
 }
 
