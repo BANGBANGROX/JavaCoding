@@ -394,6 +394,7 @@
       <module fileurl="file://$PROJECT_DIR$/Word_Wrap/Word_Wrap.iml" filepath="$PROJECT_DIR$/Word_Wrap/Word_Wrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/X_Total_Shapes/X_Total_Shapes.iml" filepath="$PROJECT_DIR$/X_Total_Shapes/X_Total_Shapes.iml" />
       <module fileurl="file://$PROJECT_DIR$/nCr_mod_M/nCr_mod_M.iml" filepath="$PROJECT_DIR$/nCr_mod_M/nCr_mod_M.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parsing_a_boolean_expression/parsing_a_boolean_expression.iml" filepath="$PROJECT_DIR$/parsing_a_boolean_expression/parsing_a_boolean_expression.iml" />
     </modules>
   </component>
 </project>
