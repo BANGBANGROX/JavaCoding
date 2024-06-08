@@ -56,6 +56,9 @@ public class Main {
         int T = sc.nextInt();
 
         while (T-- > 0) {
+            String s = sc.next();
+
+            System.out.println(new Solution().minCut(s));
         }
 
         sc.close();
