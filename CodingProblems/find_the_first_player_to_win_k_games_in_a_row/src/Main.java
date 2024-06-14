@@ -10,7 +10,7 @@ class Solution {
             if (skills[i] < skills[first]) {
                 ++cnt;
             } else {
-                cnt = 0;
+                cnt = 1;
                 first = i;
             }
             if (cnt >= k) return first;
