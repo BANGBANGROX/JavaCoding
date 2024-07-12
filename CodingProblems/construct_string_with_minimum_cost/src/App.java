@@ -1,8 +1,9 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 class Solution {
     private int[] power;
@@ -14,6 +15,8 @@ class Solution {
     Solution() {
         computePower();
         computeInversePower();
+        // print(power);
+        // print(inversePower);
     }
 
     private int calculatePower(int a, int b) {
@@ -21,10 +24,10 @@ class Solution {
 
         while (b > 0) {
             if ((b & 1) > 0) {
-                result = (result * a) % MOD;
+                result = (int) ((1L * result * a) % MOD);
                 --b;
             }
-            a = (a * a) % MOD;
+            a = (int) ((1L * a * a) % MOD);
             b >>= 1;
         }
 
@@ -33,11 +36,11 @@ class Solution {
 
     private void computePower() {
         power = new int[SIZE];
-        
+
         power[0] = 1;
 
         for (int i = 1; i < SIZE; ++i) {
-            power[i] = (power[i - 1] * PRIME_NUMBER) % MOD;
+            power[i] = (int) ((1L * power[i - 1] * PRIME_NUMBER) % MOD);
         }
     }
 
@@ -56,7 +59,7 @@ class Solution {
         int[] hash = new int[n];
 
         for (int i = 0; i < n; ++i) {
-            int current = (power[i] * (s.charAt(i) - 'a' + 1)) % MOD;
+            int current = (int) ((1L * power[i] * (s.charAt(i) - 'a' + 1)) % MOD);
             hash[i] = ((i > 0 ? hash[i - 1] : 0) + current) % MOD;
         }
 
@@ -66,7 +69,7 @@ class Solution {
     private int getSubstringHash(int[] hash, int left, int right) {
         int val = (hash[right] - (left > 0 ? hash[left - 1] : 0) + MOD) % MOD;
 
-        return (val * (left > 0 ? inversePower[left - 1] : 1)) % MOD;
+        return (int) ((1L * val * inversePower[left]) % MOD);
     }
 
     public int minimumCost(String target, String[] words, int[] costs) {
@@ -74,8 +77,8 @@ class Solution {
         int[] dp = new int[n];
         int[] hash = calculateHash(target);
         Map<Integer, Integer> hashToMinCostMap = new HashMap<>();
-        Set<Integer> uniqueLengths = new HashSet<>();
-        
+        ArrayList<Integer> uniqueLengths = new ArrayList<>();
+
         Arrays.fill(dp, Integer.MAX_VALUE);
 
         for (int i = 0; i < words.length; ++i) {
@@ -83,20 +86,28 @@ class Solution {
             int cost = costs[i];
             int len = word.length();
             int currentWordHash = calculateHash(word)[len - 1];
-            hashToMinCostMap.put(currentWordHash, Math.min(hashToMinCostMap.getOrDefault(currentWordHash, Integer.MAX_VALUE), cost));
+            hashToMinCostMap.put(currentWordHash,
+                    Math.min(hashToMinCostMap.getOrDefault(currentWordHash, Integer.MAX_VALUE), cost));
             uniqueLengths.add(len);
         }
 
-        dp[0] = hashToMinCostMap.getOrDefault(getSubstringHash(hash, 0, 0), Integer.MAX_VALUE);
+        System.out.println(hashToMinCostMap);
 
-        for (int i = 1; i < n; ++i) {
+        Collections.sort(uniqueLengths);
+
+        uniqueLengths = new ArrayList<>(new HashSet<>(uniqueLengths));
+
+        for (int i = 0; i < n; ++i) {
             for (int len : uniqueLengths) {
                 if (i >= len - 1) {
                     int substringHash = getSubstringHash(hash, i - len + 1, i);
+                    System.out.println(substringHash);
                     Integer minHashCost = hashToMinCostMap.get(substringHash);
-                    System.out.println(minHashCost);
-                    if (minHashCost != null && dp[i - len] != Integer.MAX_VALUE) {
-                        dp[i] = Math.min(dp[i], dp[i - len] + minHashCost);
+                    if (minHashCost != null) {
+                        int prevValue = (i >= len ? dp[i - len] : 0);
+                        if (prevValue != Integer.MAX_VALUE) {
+                            dp[i] = Math.min(dp[i], prevValue + minHashCost);
+                        }
                     }
                 }
             }
