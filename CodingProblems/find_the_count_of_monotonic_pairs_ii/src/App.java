@@ -12,6 +12,15 @@ class Solution {
         Arrays.fill(dp, 1);
 
         for (int i = 1; i < n; ++i) {
+            // a[i] + b[i] = nums[i]
+            // a[i] >= a[i - 1]
+            // b[i - 1] >= b[i]
+            // a[i] + b[i - 1] >= a[i - 1] + b[i]
+            // a[i] - a[i - 1] >= b[i] - b[i - 1]
+            // a[i] - a[i - 1] >= nums[i] - a[i] - nums[i - 1] + a[i - 1]
+            // a[i] - a[i - 1] >= 1/2(nums[i] - nums[i - 1])
+            // a[i] >= a[i - 1] + 1/2(nums[i] - nums[i - 1])
+            // a[i] starts from max(nums[i] - nums[i - 1], 0) and goes till nums[i] 
             int initialValue = Math.max(nums[i] - nums[i - 1], 0);
             int[] dp2 = new int[maxValue + 1];
             for (int val = initialValue; val <= nums[i]; ++val) {
