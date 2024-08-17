@@ -6,13 +6,11 @@
 import java.io.*;
 import java.util.*;
 
-class Node
-{
+class Node {
     int data;
     Node left, right;
 
-    public Node(int d)
-    {
+    public Node(int d) {
         data = d;
         left = right = null;
     }
@@ -23,7 +21,7 @@ public class Main
     static Node buildTree(String str)
     {
         // Corner Case
-        if(str.length() == 0 || str.equals('N'))
+        if(str.isEmpty() || str.equals("N"))
             return null;
         String[] s = str.split(" ");
 
@@ -75,7 +73,7 @@ public class Main
         return root;
     }
 
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(br.readLine().trim());
