@@ -45,6 +45,15 @@ public class Main {
        int testCases = scanner.nextInt();
        
        while (testCases-- > 0) {
+           int n = scanner.nextInt();
+           int[][] times = new int[n][2];
+           for (int i = 0; i < n; ++i) {
+               times[i][0] = scanner.nextInt();
+               times[i][1] = scanner.nextInt();
+           }
+           int targetFriend = scanner.nextInt();
+
+           System.out.println(new Solution().smallestChair(times, targetFriend));
        }
        
        scanner.close();
