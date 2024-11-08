@@ -29,6 +29,14 @@ public class Main {
 class Solution {
     public int minRepeats(String a, String b) {
         // code here
+        if (a.contains(b)) return 1;
+
+        for (char ch : b.toCharArray()) {
+            if (!a.contains("" + ch)) {
+                return -1;
+            }
+        }
+
         String initialString = a;
         int ans = 1;
         StringBuilder aBuilder = new StringBuilder(a);
