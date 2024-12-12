@@ -1,13 +1,12 @@
 //{ Driver Code Starts
 // Initial Template for Java
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-class GFG {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
