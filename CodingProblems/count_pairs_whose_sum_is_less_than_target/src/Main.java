@@ -35,7 +35,7 @@ class Solution {
 //{ Driver Code Starts.
 
 class Main {
-    public static void main(String args[]) throws IOException {
+    public static void main(String[] args) throws IOException {
         BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
         int t = Integer.parseInt(read.readLine());
 
