@@ -88,6 +88,18 @@ public class Main {
        int testCases = scanner.nextInt();
        
        while (testCases-- > 0) {
+           int n = scanner.nextInt();
+           int[] nums = new int[n];
+           for (int i = 0; i < n; ++i) {
+               nums[i] = scanner.nextInt();
+           }
+           int limit = scanner.nextInt();
+
+           int[] answer = new Solution().lexicographicallySmallestArray(nums, limit);
+           for (int x : answer) {
+               System.out.print(x + " ");
+           }
+           System.out.println();
        }
        
        scanner.close();
