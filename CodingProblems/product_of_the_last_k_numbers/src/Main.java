@@ -37,7 +37,6 @@ class ProductOfNumbers {
 
         return left > 0 ? prefixProduct.getLast() / prefixProduct.get(left - 1) :
                 prefixProduct.getLast();
-
     }
 }
 
