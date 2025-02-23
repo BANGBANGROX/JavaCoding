@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/construct_binary_tree_from_preorder_and_postorder_traversal.iml" filepath="$PROJECT_DIR$/construct_binary_tree_from_preorder_and_postorder_traversal.iml" />
+    </modules>
+  </component>
+</project>
