@@ -6,7 +6,7 @@ class Solution {
     public int lenLongestFibSubseq(int[] arr) {
         int n = arr.length;
         Set<Integer> numSet = new HashSet<>();
-        
+
         for (int num : arr) {
             numSet.add(num);
         }
