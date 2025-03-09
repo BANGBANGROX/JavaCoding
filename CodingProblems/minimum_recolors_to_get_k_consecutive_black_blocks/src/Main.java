@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 class Solution {
     public int minimumRecolors(String blocks, int k) {
-        int n = blocks.length();
-        int[] whiteCount = new int[n];
+        final int n = blocks.length();
+        final int[] whiteCount = new int[n];
         int left = 0;
         int right = k - 1;
         int answer = k;
@@ -11,10 +11,7 @@ class Solution {
         whiteCount[0] = (blocks.charAt(0) == 'W' ? 1 : 0);
 
         for (int i = 1; i < n; ++i) {
-            whiteCount[i] = whiteCount[i - 1];
-            if (blocks.charAt(i) == 'W') {
-                ++whiteCount[i];
-            }
+            whiteCount[i] = whiteCount[i - 1] + (blocks.charAt(i) == 'W' ? 1 : 0);
         }
 
         while (right < n) {
