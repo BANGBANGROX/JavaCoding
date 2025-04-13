@@ -32,8 +32,8 @@ public class Main {
 
 class Solution {
     private static class UnionFind {
-        int[] parent;
-        int[] size;
+        private final int[] parent;
+        private final int[] size;
 
         public UnionFind(int n) {
             parent = new int[n];
