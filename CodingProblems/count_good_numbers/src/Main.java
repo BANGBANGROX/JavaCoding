@@ -6,8 +6,6 @@ class Solution {
     private long binaryExponentiation(long a, long b) {
         long result = 1;
 
-        a %= MOD;
-
         while (b > 0) {
             if ((b & 1) > 0) {
                 result = (result * a) % MOD;
