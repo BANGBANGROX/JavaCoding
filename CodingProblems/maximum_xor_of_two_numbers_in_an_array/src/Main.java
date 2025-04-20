@@ -32,7 +32,7 @@ public class Main {
 
 class Solution {
     private static class TrieNode {
-        TrieNode[] children;
+        final TrieNode[] children;
 
         TrieNode() {
             children = new TrieNode[2];
