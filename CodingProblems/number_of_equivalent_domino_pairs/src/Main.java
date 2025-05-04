@@ -8,8 +8,8 @@ class Solution {
         int answer = 0;
 
         for (int[] domino : dominoes) {
-            final String forwardString = domino[0] + "|" + domino[1];
-            final String reverseString = domino[1] + "|" + domino[0];
+            final String forwardString = domino[0] + "#" + domino[1];
+            final String reverseString = domino[1] + "#" + domino[0];
             final int change;
 
             if (forwardString.equals(reverseString)) {
