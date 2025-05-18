@@ -6,7 +6,7 @@ class Solution {
     private int n;
     private int[][] dp;
 
-    public int colorTheGrid(int m, int n) {
+    public int colorTheGrid(final int m, final int n) {
         this.m = m;
         this.n = n;
         dp = new int[n + 1][1025];
@@ -18,7 +18,8 @@ class Solution {
         return colorTheGridHandler(0, 0, 0, 0);
     }
 
-    private int colorTheGridHandler(int previousState, int currentState, int row, int col) {
+    private int colorTheGridHandler(final int previousState, final int currentState,
+                                    final int row, final int col) {
         if (col == n) {
             return 1;
         }
