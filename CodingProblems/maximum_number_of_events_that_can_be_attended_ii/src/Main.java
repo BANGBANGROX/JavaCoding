@@ -45,7 +45,7 @@ class Solution {
 
         while (left <= right) {
             final int mid = (left + ((right - left) >> 1));
-            
+
             if (events[mid][0] > key) {
                 result = mid;
                 right = mid - 1;
