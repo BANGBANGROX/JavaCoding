@@ -34,6 +34,7 @@ class Solution {
                 meetingEndTime = meeting[1];
             } else {
                 final List<Integer> firstRoomAvailableDetails = currentRoomStatusQueue.poll();
+                assert firstRoomAvailableDetails != null;
                 roomAssigned = firstRoomAvailableDetails.getFirst();
                 meetingEndTime = meeting[1] - meeting[0] + firstRoomAvailableDetails.get(1);
             }
