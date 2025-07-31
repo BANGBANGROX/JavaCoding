@@ -1,11 +1,14 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 class Solution {
     public int longestSubarray(final int[] nums) {
-        final int maxValue = Arrays.stream(nums).max().getAsInt();
+        int maxValue = Integer.MIN_VALUE;
         int answer = 0;
         int currentCount = 0;
+
+        for (final int num : nums) {
+            maxValue = Math.max(maxValue, num);
+        }
 
         for (final int num : nums) {
             if (num == maxValue) {
