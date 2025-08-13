@@ -37,7 +37,7 @@ class Solution {
             }
         }
 
-        char temp = chars[last];
+        final char temp = chars[last];
         chars[last] = chars[nextIndex];
         chars[nextIndex] = temp;
 
@@ -52,7 +52,7 @@ class Solution {
 
     private void reverse(final char[] chars, int left, int right) {
         while (left < right) {
-            char temp = chars[left];
+            final char temp = chars[left];
             chars[left] = chars[right];
             chars[right] = temp;
 
